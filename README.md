@@ -3,7 +3,7 @@ This mod contains several new battlemechs of the Royal SLDF regiments, as well a
 
 # Installation:
 WARNING: Don't try to install the BTX CAC Compatibility version if you don't have the mcb's BTX CAC Compatibility mod with your BEX - the game may not start!
-1) Open BT\Mods folder and copy FullXotlTables somewhere. Then open BT\Mods\BT_Extended and repeat the procedure with the itemCollections folder. These will be your backups in case something goes wrong.
+1) Open BT\Mods folder and copy FullXotlTables and MechAffinity folders somewhere. Then open BT\Mods\BT_Extended and repeat the procedure with the itemCollections folder. These will be your backups in case something goes wrong.
 2) Unpack the RoyalPack archive and select the appropriate version depending on whether you have the mcb's CAC Compatibility mod installed or not. Each of the versions is in the corresponding folder, you won't be mistaken :)
 3) Move or copy the folders BT_Extended, FullXotlTables and RoyalPack of the appropriate version to the BT/Mods directory and confirm the replacement of the files.
 4) This is optional step, but it definitely won't hurt the installation. Open BT\Mods\ModTek folder and run modtekinjector.exe as administrator.
