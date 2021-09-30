@@ -60,7 +60,7 @@ Primitive 'mech, can be found in local troops and peripheral states. Not on sale
 
 PLG-1N:
 
-It's found in about the same place as the Victor models A and A1, but has a slightly lower chance of appearing. The entire 'mechs and parts for assembly can be found on the markets of the Liao and Davion Houses.
+It's found in about the same places as the Victor models A and A1, but has a slightly lower chance of appearing. The entire 'mechs and parts for assembly can be found on the markets of the Liao and Davion Houses.
 
 Now about features.
 
