@@ -79,7 +79,7 @@ Everything is quite simple - earlier in the crate from this event there could be
 
 Not noticed, but there are some things you should know.
 1) 'Mechs from this list don't use their own models and icons for lack of such: Spector (Goshawk model), Pillager (Kodiak model), Kyudo (Vindicator model) and Galahad (Nova Cat model). If the CAB ever has a separate models for these 'mechs, I'll fix that. Hey, if you're on the CAB team - a lot of guys are almost praying for Pillager. Well, you get the idea :D
-2) 'Mechs that don't have their own models use MechAffinity from the 'mechs whose model they are using. So don't be surprised, for example, that your Pillager pilot has the Kodiak piloting skills. Again, if there are ever separate models for these 'mechs, this will be fixed.
+2) 'Mechs that don't have their own models use MechAffinity from the 'mechs whose models they are using. So don't be surprised, for example, that your Pillager pilot has the Kodiak piloting skills. Again, if there are ever separate models for these 'mechs, this will be fixed.
 3) Due to the fact that BT 'mechs have fewer slots than in MegaMek, some 'mechs have their DHS partially removed from the equipment list and included in the engine cooling system. Otherwise, they won't fit. So don't worry, the cooling is okay, you just can't get these DHS through the salvage if you destroy these 'mechs. On the other hand, you won't be able to lose these DHS if the armor is destroyed and the damage goes into the structure, so in a way, this is even better.
 4) The location of FF-, endo- and FF+endo slots doesn't completely coincide with the canonical one, because in BEX they require 1 slot less than in MegaMek. Not a problem, so just information.
 
