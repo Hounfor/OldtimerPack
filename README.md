@@ -1,13 +1,16 @@
-# RoyalPack
-This mod contains several new battlemechs of the Royal SLDF regiments, as well as one Helm-tech class battlemech. Also, the mod allows you to buy Guardian ECM and Beagle Active Probe electronic systems in stores or find it in FP crates. This is an add-on for the BattleTech Extended: Commander's Edition 3025 mod (aka BEX) and requires it to be installed.
+# OldtimerPack
+This mod contains several new BattleMechs, including 'Mechs of the Royal SLDF regiments, as well as one Helm-tech class BattleMech. Also, the mod allows you to buy Guardian ECM and Beagle Active Probe electronic systems in stores or find it in FP crates. Finally, it fixes the Hell of a Deal event, now it will be impossible to get a stupid weapon for a million there. This is an add-on for the BattleTech Extended: Commander's Edition 3025 mod (aka BEX) and requires it to be installed.
 
 # Installation:
 WARNING: Don't try to install the BTX CAC Compatibility version if you don't have the mcb's BTX CAC Compatibility mod with your BEX - the game may not start!
-1) Open BT\Mods folder and copy FullXotlTables and MechAffinity folders somewhere. Then open BT\Mods\BT_Extended and repeat the procedure with the itemCollections folder. These will be your backups in case something goes wrong.
-2) Unpack the RoyalPack archive and select the appropriate version depending on whether you have the mcb's CAC Compatibility mod installed or not. Each of the versions is in the corresponding folder, you won't be mistaken :)
-3) Move or copy the folders BT_Extended, FullXotlTables and RoyalPack of the appropriate version to the BT/Mods directory and confirm the replacement of the files.
-4) This is optional step, but it definitely won't hurt the installation. Open BT\Mods\ModTek folder and run modtekinjector.exe as administrator.
-5) Launch BT and have fun. Make sure no error messages appear in the main menu.
+1) FOR USERS OF PREVIOUS MOD VERSIONS ONLY, i.e. RoyalPack users: open BT\Mods folder and delete RoyalPack folder.
+2) Open BT\Mods folder and copy FullXotlTables and MechAffinity folders somewhere. Then open BT\Mods\BT_Extended and repeat the procedure with the itemCollections folder. These will be your backups in case something goes wrong.
+3) Unpack the OldtimerPack archive and select the appropriate version depending on whether you have the mcb's CAC Compatibility mod installed or not. Each of the versions is in the corresponding folder, you won't be mistaken :)
+4) Move or copy the folders BT_Extended, FullXotlTables, MechAffinity and OldtimerPack of the appropriate version to the BT/Mods directory and confirm the replacement of the files.
+5) This is optional step, but it definitely won't hurt the installation. Open BT\Mods\ModTek folder and run modtekinjector.exe as administrator.
+6) Launch BT and have fun. Make sure no error messages appear in the main menu.
+
+Optional: Some 'Mechs have shitty loadouts, design errors, and similar issues. The original versions of OldtimerPack add these 'Mechs exactly as they are. However, if you don't like the fact that Spectors have five free armor points, Hoplite's weaponry is boring bullshit, and Pillager, in your opinion, lacks Vectored Thrusted Kits to be the real horror at your battlefield, then you can install the BetterMechs patch. Just open the BetterMechs folder with the appropriate version from the archive, copy the OldtimerPack folder from there and paste it into BT\Mods with OldtimerPack already installed, confirming the replacement of the files. Don't forget: BetterMechs and OldtimerPack versions must match, i.e. for example, DO NOT install the OldtimerPack version for Stock BEX and patch it from the CAC version or vice versa.
 
 # List of 'Mechs:
 1) Archer ARC-2Rb
