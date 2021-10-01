@@ -95,9 +95,9 @@ Feel free to use 'mechs from this mod in your mods or BEX add-ons. The FullXotlT
 
 # Credits:
 
-lordruthermore - submitted the original idea, and helped a lot with the list of battlemechs, provided technical advice on their design and MegaMek. He also provided source files for some 'mechs.
+lordruthermore - submitted the original idea, helped a lot with the list of battlemechs and Xotl balancing, and provided technical advice on their design (including most BetterMechs features) and MegaMek. He also provided source files for some 'mechs.
 
-RJPhoenix - helped with technical questions, cooling calculations and overall balancing.
+RJPhoenix - helped with technical questions, cooling calculations and Xotl balancing.
 
 Xaero - gave me the idea to add Guardian ECM and BAP to stores and rewards.
 
