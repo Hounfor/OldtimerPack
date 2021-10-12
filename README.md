@@ -33,6 +33,7 @@ Optional: Some 'mechs have shitty loadouts, design errors, and similar issues. T
 16) Kyudo KY2-D-02
 17) Pillager PLG-1N
 18) Pillager PLG-3Z
+19) Warhammer WHM-6Rk
 
 Where to find?
 
@@ -61,6 +62,10 @@ Primitive 'mech, can be found in local troops and peripheral states. Not on sale
 PLG-1N:
 
 It's found in about the same places as the Victor models A and A1, but has a slightly lower chance of appearing. The entire 'mechs and parts for assembly can be found on the markets of the Liao and Davion Houses.
+
+WHM-6Rk:
+1) 'Mechs refitted from stock 6R into 6Rk can be encountered in battles against any troops using the Draconis Combine tables, but after the beginning of 3047. Their rarity is the same as that of the Marauder model 5D, so it is relatively rare, but not unique.
+2) If you caught Colonel Lees at FP "The Long Hunt", handed him over to Renauld Yamaguchi, and also killed the defector Okada in FP "The Defector", then if you have a high reputation with House Kurita, sooner or later Yamaguchi will call you with a business proposal. You'll need a lot of money. Really a lot of money. Not as much as buying a Berserker, but the price is biting.
 
 Now about features.
 
