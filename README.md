@@ -5,7 +5,7 @@ If you are looking for the Royal Pack mod, then this is it, simply due to the fa
 
 # Installation:
 WARNING: Don't try to install the BTX CAC Compatibility version if you don't have the mcb's BTX CAC Compatibility mod with your BEX - the game may not start!
-1) FOR USERS OF PREVIOUS MOD VERSIONS ONLY, i.e. RoyalPack users: open BT\Mods folder and delete RoyalPack folder. Only this, nothing more.
+1) FOR USERS OF PREVIOUS MOD VERSIONS ONLY, i.e. RoyalPack users: open BT\Mods folder and delete RoyalPack folder. Only this, nothing more. If you don't have RoyalPack, but OldtimerPack folder is in your Mods directory, then I recommend to delete it too, but that's not too necessary, you can just replace old files.
 2) Open BT\Mods folder and copy FullXotlTables and MechAffinity folders somewhere. Then open BT\Mods\BT_Extended and repeat the procedure with the itemCollections folder. These will be your backups in case something goes wrong.
 3) Unpack the OldtimerPack archive and select the appropriate version depending on whether you have the mcb's CAC Compatibility mod installed or not. Each of the versions is in the corresponding folder, you won't be mistaken :)
 4) Move or copy the folders BT_Extended, FullXotlTables, MechAffinity and OldtimerPack of the appropriate version to the BT/Mods directory and confirm the replacement of the files.
