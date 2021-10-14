@@ -110,4 +110,4 @@ Haree - he made the BEX, you know.
 
 Jamie Wolf - files of his MechAffinity mod are using here.
 
-Winterless - adding WHM-6Rk was his idea, so he helped to proofread the texts for this 'mech.
+Winterless - offered to add WHM-6Rk, and helped to proofread the texts for this 'mech.
