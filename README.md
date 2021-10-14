@@ -52,6 +52,7 @@ ARC-2Rb, SHD-2Hb, WVR-7H, and PLG-3Z:
 ST-8A, SPR-4F, CRD-1R, WVE-5Nsl, HOP-4A-B-C-D, GLH-1D and KY2-D-02:
 
 See point №1 from the previous list. There's no way to buy or find parts in FP crates. I also remind you that SPR-4F can only be found in the version for BTX CAC Compatibility.
+Keep in mind - GLH-1D isn't a typical Galahad chassis. It's 10 tons lighter, therefore it's located in the section of medium 'mechs in the skirmish mechbay.
 
 SPR-5F:
 
@@ -59,7 +60,7 @@ Davion and Steiner forces, their elite units and ComStar, but only after 01.01.3
 
 RFL-2N:
 
-Pretty common model, so literally everywhere.
+Pretty common model, so literally everywhere. Keep in mind - this isn't a typical Rifleman chassis. It's 10 tons lighter, therefore it's located in the section of medium 'mechs in the skirmish mechbay.
 
 KY2-D-02:
 
