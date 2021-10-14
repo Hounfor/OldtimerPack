@@ -3,6 +3,12 @@ This mod contains several new BattleMechs including 'mechs of the Royal SLDF reg
 
 If you are looking for the Royal Pack mod, then this is it, simply due to the fact that there are quite a few 'mechs that don't belong to the SLDF Royal forces, the mod has been renamed.
 
+# Compatibility:
+
+Oldtimer Pack should be compatible with any mods and addons for BEX, provided that they don't change the internal design of battlemechs, i.e. don't add engines, actuators, etc. into mechlab. If you have installed any mod that changes the FullXotltables, then you'll have to manually transfer the data from the tables in this archive to those used in your mod assembly.
+
+No new game required, the mod is compatible with current saves.
+
 # Installation:
 WARNING: Don't try to install the BTX CAC Compatibility version if you don't have the mcb's BTX CAC Compatibility mod with your BEX - the game may not start!
 1) FOR USERS OF PREVIOUS MOD VERSIONS ONLY, i.e. RoyalPack users: open BT\Mods folder and delete RoyalPack folder. Only this, nothing more. If you don't have RoyalPack, but OldtimerPack folder is in your Mods directory, then I recommend to delete it too, but that's not too necessary, you can just replace old files.
@@ -88,12 +94,6 @@ Not noticed, but there are some things you should know.
 3) Due to the fact that BT 'mechs have fewer slots than in MegaMek, some 'mechs have their DHS partially removed from the equipment list and included in the engine cooling system. Otherwise, they won't fit. So don't worry, the cooling is okay, you just can't get these DHS through the salvage if you destroy these 'mechs. On the other hand, you won't be able to lose these DHS if the armor is destroyed and the damage goes into the structure, so in a way, this is even better.
 4) The location of FF-, endo- and FF+endo slots doesn't completely coincide with the canonical one, because in BEX they require 1 slot less than in MegaMek. Not a problem, so just information.
 
-# Compatibility:
-
-Oldtimer Pack should be compatible with any mods and addons for BEX, provided that they don't change the internal design of battlemechs, i.e. don't add engines, actuators, etc. into mechlab. If you have installed any mod that changes the FullXotltables, then you'll have to manually transfer the data from the tables in this archive to those used in your mod assembly.
-
-No new game required, the mod is compatible with current saves.
-
 # Permissions:
 
 Feel free to use 'mechs from this mod in your mods or BEX add-ons. The FullXotlTables and BT_Exttended's itemCollections tables belong to Haree, MechAffinity files belong to Jamie Wolf, and all weapons and equipment used in 'mech files belong to their authors, so please contact them for the transfer of these stuff to other modifications.
@@ -109,3 +109,5 @@ Xaero - gave me the idea to add Guardian ECM and BAP to stores and rewards.
 Haree - he made the BEX, you know.
 
 Jamie Wolf - files of his MechAffinity mod are using here.
+
+Winterless - adding WHM-6Rk was his idea, so he helped to proofread the texts for this 'mech.
