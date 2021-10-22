@@ -3,6 +3,8 @@ This mod contains several new BattleMechs including 'mechs of the Royal SLDF reg
 
 If you are looking for the Royal Pack mod, then this is it, simply due to the fact that there are quite a few 'mechs that don't belong to the SLDF Royal forces, the mod has been renamed.
 
+Current version is 1.3.0
+
 # Compatibility:
 
 Oldtimer Pack should be compatible with any mods and addons for BEX, provided that they don't change the internal design of battlemechs, i.e. don't add engines, actuators, etc. into mechlab. If you have installed any mod that changes the FullXotltables, then you'll have to manually transfer the data from the tables in this archive to those used in your mod assembly.
