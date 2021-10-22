@@ -18,7 +18,9 @@ WARNING: Don't try to install the BTX CAC Compatibility version if you don't hav
 5) This is optional step, but it definitely won't hurt the installation. Open BT\Mods\ModTek folder and run modtekinjector.exe as administrator.
 6) Launch BT and have fun. Make sure no error messages appear in the main menu.
 
-Optional: Some 'mechs have shitty loadouts, design errors, and similar issues. The original versions of Oldtimer Pack add these 'mechs exactly as they are. However, if you don't like the fact that Spectors have five free armor points, Hoplite's weaponry is boring bullshit, and Pillager, in your opinion, lacks Vectored Thrust Kits to be the real horror at your battlefield, then you can install the Better Mechs patch. Just open the BetterMechs folder with the appropriate version from the archive, copy the OldtimerPack folder from there and paste it into BT\Mods with OldtimerPack folder already installed, confirming the replacement of the files. Don't forget: Better Mechs and Oldtimer Pack versions must match, i.e. for example, DO NOT install the Oldtimer Pack version for Stock BEX and patch it from the CAC version or vice versa.
+Option 1: Some 'mechs have shitty loadouts, design errors, and similar issues. The original versions of Oldtimer Pack add these 'mechs exactly as they are. However, if you don't like the fact that Spectors have five free armor points, Hoplite's weaponry is boring bullshit, and Pillager, in your opinion, lacks Vectored Thrust Kits to be the real horror at your battlefield, then you can install the Better Mechs patch. Just open the BetterMechs folder with the appropriate version from the archive, copy the OldtimerPack folder from there and paste it into BT\Mods with OldtimerPack folder already installed, confirming the replacement of the files. Don't forget: Better Mechs and Oldtimer Pack versions must match, i.e. for example, DO NOT install the Oldtimer Pack version for Stock BEX and patch it from the CAC version or vice versa.
+
+Option 2: Now the mod includes a fix for the Catapults K2 and K3. Previously, these 'mechs used the default Catapult affinities, i.e. received a bonus to rocket weapons, although they couldn't use it. Now they will receive a bonus to energy weapons, but use a slightly different model from the CAB. If you want to use this fix, then copy the BEX_K2pult_fix folder from the archive into your Mods folder. Compatible with any version regardless of the presence of SAS-C.
 
 # List of 'Mechs and features:
 1) Archer ARC-2Rb
@@ -40,6 +42,21 @@ Optional: Some 'mechs have shitty loadouts, design errors, and similar issues. T
 17) Pillager PLG-1N
 18) Pillager PLG-3Z
 19) Warhammer WHM-6Rk
+21) BattleAxe BKX-7K
+22) BattleAxe BKX-7NC
+23) Hammerhands HMH-3D
+24) Hammerhands HMH-4D
+25) Phoenir PX-3R
+26) Phoenix PX-4R
+27) Von Rohrs VON 4RH-5
+28) Von Rohrs VON 4RH-6
+29) Archer ARC-5CS
+30) Marauder MAR-5CS
+31) Phoenix Hawk PXH-1bC
+32) Rifleman RFL-5CS
+33) Shadow Hawk SHD-2Ht
+34) Warhammer WHM-7CS
+35) Annihilator ANH-1X
 
 Where to find?
 
@@ -74,6 +91,26 @@ WHM-6Rk:
 1) 'Mechs refitted from stock 6R into 6Rk can be encountered in battles against any troops using the Draconis Combine tables, but after the beginning of 3047. Their rarity is the same as that of the Marauder model 5D, so it is relatively rare, but not unique.
 2) If you caught Colonel Lees at FP "The Long Hunt", handed him over to Renauld Yamaguchi, and also killed the defector Okada in FP "The Defector", then if you have a high reputation with House Kurita, sooner or later Yamaguchi will call you with a business proposal. You'll need a lot of money. Really a lot of money. Not as much as buying a Berserker, but the price is biting.
 
+BattleAxe BKX-7K, BattleAxe BKX-7NC, Hammerhands HMH-3D and Hammerhands HMH-4D:
+
+Technically, these chassis are extinct, but occasionally they can be found in Davion local troops.
+
+Phoenir PX-3R and Phoenix PX-4R:
+
+Technically, these chassis are extinct, but occasionally they can be found in Steiner local troops.
+
+Von Rohrs VON 4RH-5 and Von Rohrs VON 4RH-6:
+
+Technically, these chassis are extinct, but occasionally they can be found in Kuritan local troops.
+
+Archer ARC-5CS, Marauder MAR-5CS, Phoenix Hawk PXH-1bC, Rifleman RFL-5CS, Shadow Hawk SHD-2Ht and Warhammer WHM-7CS:
+
+These all are ComStar refits used in the Battle of Tukayyid. They can be stumbled upon in missions with the participation of ComStar after 01.01.3052 with a small probability. By the way, the likelihood of HSR 400-D Hussar, KGC-001 King Crab, BL-9-KNT Black Knight, CHP-3N Champion and WVE-9N Wyvern spawning as other Clanbusters has also been lowered.
+
+Annihilator ANH-1X:
+
+I have no idea why I did it at all, because I never figured out how to integrate this into the mod without harming the lore, but let it be. It's impossible to get this 'mech in game ways, only by the save editor or mods like "Fell Of A Cargo Ship".
+
 Now about features.
 
 Feature 1 - Guardian ECM (X-2 ECM in stock BEX) and Beagle Active Probe (Beagle AP Equipment in stock BEX):
@@ -87,11 +124,15 @@ Feature 2 - Hell of a Deal event fix:
 
 Everything is quite simple - earlier in the crate from this event there could be parts of lostech 'mechs, parts of just rare mechs or weapons. I guess no one likes the shitty million C-Bill LRM rig, and the event text mentions that the reward should be the parts, so the weapons were dropped from the list of what might end up in the crate. But don't relax, there are still parts of non-lostech 'mechs in the list, so you may come across a part from some simple 'mech without lostech toys.
 
+Feature 3 - a bit like an Easter egg:
+
+Well, it was originally just a joke on the Clan Jade Falcon and Liao, but somebody might like it. Check the list of emblems available to the player, there is one new.
+
 # Bugs:
 
 Not noticed, but there are some things you should know.
-1) 'Mechs from this list don't use their own models and icons for lack of such: Spector (Goshawk model), Pillager (Kodiak model), Kyudo (Vindicator model) and Galahad (Nova Cat model). If the CAB ever has a separate models for these 'mechs, I'll fix that. Hey, if you're on the CAB team - a lot of guys are almost praying for Pillager. Well, you get the idea :D
-2) 'Mechs that don't have their own models use MechAffinity from the 'mechs whose models they are using. So don't be surprised, for example, that your Pillager pilot has the Kodiak piloting skills. Again, if there are ever separate models for these 'mechs, this will be fixed.
+1) 'Mechs from this list don't use their own models and icons for lack of such: Spector (Goshawk model), Pillager (Kodiak model), Kyudo (Vindicator model), Galahad (Nova Cat model) and Hammerhands (BattleAxe model). If the CAB ever has a separate models for these 'mechs, I'll fix that. Hey, if you're on the CAB team - a lot of guys are almost praying for Pillager. Well, you get the idea :D
+2) 'Mechs that don't have their own models (except Hammerhands due to different tonnage) use MechAffinity from the 'mechs whose models they are using. So don't be surprised, for example, that your Pillager pilot has the Kodiak piloting skills. Again, if there are ever separate models for these 'mechs, this will be fixed.
 3) Due to the fact that BT 'mechs have fewer slots than in MegaMek, some 'mechs have their DHS partially removed from the equipment list and included in the engine cooling system. Otherwise, they won't fit. So don't worry, the cooling is okay, you just can't get these DHS through the salvage if you destroy these 'mechs. On the other hand, you won't be able to lose these DHS if the armor is destroyed and the damage goes into the structure, so in a way, this is even better.
 4) The location of FF-, endo- and FF+endo slots doesn't completely coincide with the canonical one, because in BEX they require 1 slot less than in MegaMek. Not a problem, so just information.
 
@@ -103,7 +144,7 @@ Feel free to use 'mechs from this mod in your mods or BEX add-ons. The FullXotlT
 
 lordruthermore - submitted the original idea, helped a lot with the list of battlemechs and Xotl balancing, and provided technical advice on their design (including most BetterMechs features) and MegaMek. He also provided source files for some 'mechs.
 
-RJPhoenix - helped with technical questions, cooling calculations and Xotl balancing.
+RJPhoenix - helped with technical questions, cooling calculations and Xotl balancing. Clanbusters were also his idea, and he helped significantly with some of their design problems during the development process.
 
 Xaero - gave me the idea to add Guardian ECM and BAP to stores and rewards.
 
@@ -112,3 +153,7 @@ Haree - he made the BEX, you know.
 Jamie Wolf - files of his MechAffinity mod are using here.
 
 Winterless - offered to add WHM-6Rk, and helped to proofread the texts for this 'mech.
+
+Sidika - without him there wouldn't be this new emblem.
+
+Monomaxos - gave me the idea to make a fix for Catapults K2 and K3 and was the first to try them.
