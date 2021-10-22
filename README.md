@@ -111,7 +111,7 @@ These all are ComStar refits used in the Battle of Tukayyid. They can be stumble
 
 Annihilator ANH-1X:
 
-I have no idea why I did it at all, because I never figured out how to integrate this into the mod without harming the lore, but let it be. It's impossible to get this 'mech in game ways, only by the save editor or mods like "Fell Of A Cargo Ship".
+I have no idea why I made it at all, because I never figured out how to integrate this into the mod without harming the lore, but let it be. It's impossible to get this 'mech in game ways, only by the save editor or mods like "Fell Of A Cargo Ship".
 
 Now about features.
 
