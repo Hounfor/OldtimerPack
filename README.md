@@ -7,7 +7,7 @@ Current version is 1.3.0, added 22.10.2021.
 
 # Compatibility:
 
-Oldtimer Pack should be compatible with any mods and addons for BEX, provided that they don't change the internal design of battlemechs, i.e. don't add engines, actuators, etc. into mechlab. If you have installed any mod that changes the FullXotltables, then you'll have to manually transfer the data from the tables in this archive to those used in your mod assembly.
+Oldtimer Pack should be compatible with any mods and addons for BEX, provided that they don't change the internal design of battlemechs, i.e. don't add engines, actuators, etc. into mechlab. If you have installed any mod that changes the FullXotltables, then you'll have to manually transfer the data from the tables in this archive to those used in your mod assembly. For this case, there is a special folder "XotlTables - data for manual entry": it contains Xotl tables containing only new 'mechs. You'll have to transfer this data to the original Xotl manually, but the mod will work.
 
 No new game required, the mod is compatible with current saves.
 
@@ -23,6 +23,8 @@ WARNING: Don't try to install the BTX CAC Compatibility version if you don't hav
 Option 1: Some 'mechs have shitty loadouts, design errors, and similar issues. The original versions of Oldtimer Pack add these 'mechs exactly as they are. However, if you don't like the fact that Spectors have five free armor points, Hoplite's weaponry is boring bullshit, and Pillager, in your opinion, lacks Vectored Thrust Kits to be the real horror at your battlefield, then you can install the Better Mechs patch. Just open the BetterMechs folder with the appropriate version from the archive, copy the OldtimerPack folder from there and paste it into BT\Mods with OldtimerPack folder already installed, confirming the replacement of the files. Don't forget: Better Mechs and Oldtimer Pack versions must match, i.e. for example, DO NOT install the Oldtimer Pack version for Stock BEX and patch it from the CAC version or vice versa.
 
 Option 2: Now the mod includes a fix for the Catapults K2 and K3. Previously, these 'mechs used the default Catapult affinities, i.e. received a bonus to rocket weapons, although they couldn't use it. Now they will receive a bonus to energy weapons, but use a slightly different model from the CAB. If you want to use this fix, then copy the BEX_K2pult_fix folder from the archive into your Mods folder. Compatible with any version regardless of the presence of CAC-C.
+
+Option 3: If you use ANY mod, except for CAC-Compatibility, that changes Xotl tables, then OldtimerPack isn't compatible with it. But you can fix it yourself: the "XotlTables - data for manual entry" folder is included in the archive especially for you. It contains Xotl tables that only include new mechs. It is USELESS to install it in your Mods folder (when you try to do this, nothing will change in the game), you'll have to transfer the data from there to your Xotl manually using the usual Windows Notepad. Unfortunately, this is currently the easiest way I can make the OP compatible with other Xotl-changing mods.
 
 # List of 'Mechs and features:
 1) Archer ARC-2Rb
@@ -159,3 +161,7 @@ Winterless - offered to add WHM-6Rk, and helped to proofread the texts for this 
 Sidika - without him there wouldn't be this new emblem.
 
 Monomaxos - gave me the idea to make a fix for Catapults K2 and K3 and was the first to try them.
+
+totallyrobot - sources for manual editing in Xotl were added at his request.
+
+Waladil - fixes in Yang's thoughts to the first 18 mechs from the list.
