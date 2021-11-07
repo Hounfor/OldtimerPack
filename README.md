@@ -3,7 +3,7 @@ This mod contains several new BattleMechs including 'mechs of the Royal SLDF reg
 
 If you are looking for the Royal Pack mod, then this is it, simply due to the fact that there are quite a few 'mechs that don't belong to the SLDF Royal forces, the mod has been renamed.
 
-Current version is 1.3.1, added 29.10.2021.
+Current version is 1.3.2, added 08.11.2021.
 
 # Compatibility:
 
@@ -165,3 +165,5 @@ Monomaxos - gave me the idea to make a fix for Catapults K2 and K3 and was the f
 totallyrobot - sources for manual editing in Xotl were added at his request.
 
 Waladil - fixes in Yang's thoughts to the first 18 mechs from the list.
+
+Taliesin - discovered one of the critical errors with the launch of the mod. Fixed in version 1.3.2
