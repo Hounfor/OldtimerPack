@@ -3,7 +3,7 @@ This mod contains several new BattleMechs including 'mechs of the Royal SLDF reg
 
 If you are looking for the Royal Pack mod, then this is it, simply due to the fact that there are quite a few 'mechs that don't belong to the SLDF Royal forces, the mod has been renamed.
 
-Current version is 1.4.0, added 13.11.2021.
+Current version is 1.4.1, added 13.11.2021.
 
 # Compatibility:
 
