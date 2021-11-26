@@ -3,7 +3,7 @@ This mod contains several new BattleMechs including 'mechs of the Royal SLDF reg
 
 If you are looking for the Royal Pack mod, then this is it, simply due to the fact that there are quite a few 'mechs that don't belong to the SLDF Royal forces, the mod has been renamed.
 
-Current version is 1.4.1, added 13.11.2021.
+Current version is 1.4.2, added 27.11.2021.
 
 # Compatibility:
 
@@ -50,7 +50,7 @@ Option 3: If you use ANY mod, except for CAC-Compatibility, that changes Xotl ta
 22) BattleAxe BKX-7NC
 23) Hammerhands HMH-3D
 24) Hammerhands HMH-4D
-25) Phoenir PX-3R
+25) Phoenix PX-3R
 26) Phoenix PX-4R
 27) Von Rohrs VON 4RH-5
 28) Von Rohrs VON 4RH-6
@@ -102,7 +102,7 @@ BattleAxe BKX-7K, BattleAxe BKX-7NC, Hammerhands HMH-3D and Hammerhands HMH-4D:
 
 Technically, these chassis are extinct, but occasionally they can be found in Davion local troops.
 
-Phoenir PX-3R and Phoenix PX-4R:
+Phoenix PX-3R and Phoenix PX-4R:
 
 Technically, these chassis are extinct, but occasionally they can be found in Steiner local troops.
 
@@ -119,8 +119,7 @@ Annihilator ANH-1X:
 I have no idea why I made it at all, because I never figured out how to integrate this into the mod without harming the lore, but let it be. It's impossible to get this 'mech in game ways, only by the save editor or mods like "Fell Of A Cargo Ship".
 
 Marauders II - 5A, 5B and 5C:
-1) Any Marauder II users can expose these battlemechs in battle, most of them are Great Houses and their elite units, but some mercenary outfits too. Better to check Xotl for sure: https://docs.google.com/spreadsheets/d/1AKBWV0VBRo7cJb4YfiFFPIxhG-OTNvqJAHMmXwg-Z0E/
-2) These 'mechs should have been available in the Outreach store, but I can't do this, because the code for the stores is overcomplicated and it's unrealistic for me to figure it out. Maybe someday it will be corrected, but not for now - this note just touched on a possible perspective (which may not come at all).
+Any Marauder II users can expose these battlemechs in battle, most of them are Great Houses and their elite units, but some mercenary outfits too. Better to check Xotl for sure: https://docs.google.com/spreadsheets/d/1AKBWV0VBRo7cJb4YfiFFPIxhG-OTNvqJAHMmXwg-Z0E/
 
 Now about features.
 
