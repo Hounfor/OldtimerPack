@@ -1,7 +1,7 @@
 # Oldtimer Pack
-This mod contains several new BattleMechs including 'mechs of the Royal SLDF regiments, as well as one Helm-tech class BattleMech and some Clan 'mechs. Also, the mod allows you to buy Guardian ECM and Beagle Active Probe electronic systems in stores or find it in FP crates. Finally, it fixes the Hell of a Deal event, now it will be impossible to get a stupid weapon for a million of C-Bills there. This is an add-on for the BattleTech Extended: Commander's Edition 3025 mod (aka BEX) and requires it to be installed.
+This mod contains several new BattleMechs including 'mechs of the Royal SLDF regiments, as well as one Helm-tech class BattleMech. Also, the mod allows you to buy Guardian ECM and Beagle Active Probe electronic systems in stores or find it in FP crates. Finally, it fixes the Hell of a Deal event, now it will be impossible to get a stupid weapon for a million of C-Bills there. This is an add-on for the BattleTech Extended: Commander's Edition 3025 mod (aka BEX) and requires it to be installed.
 
-Current version is 1.5.0, added 03.02.2022.
+Current version is 1.5.1, added 22.02.2022.
 
 # Compatibility:
 
@@ -47,11 +47,6 @@ Option: If you use ANY mod that changes Xotl tables, then OldtimerPack isn't com
 27) BattleMaster BLR-1Gbc
 28) BattleMaster BLR-1Gc
 29) BattleMaster BLR-1Gd
-30) Stone Rhino STR-1
-31) Stone Rhino STR-4
-32) Stone Rhino STR-5
-33) Stone Rhino STR-6
-34) Stone Rhino STR-7
 
 Where to find?
 
