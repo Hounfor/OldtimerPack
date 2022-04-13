@@ -3,6 +3,8 @@ This mod contains several new BattleMechs including 'mechs of the Royal SLDF reg
 
 Current version is 1.5.1, added 22.02.2022.
 
+From 04.14.2022, the Oldtimer Pack mod is NO LONGER MAINTAINED. All content included in mod The Big Deal for BattleTech Extended 3025–3061 version 1.9.3.7: https://github.com/Hounfor/The-Big-Deal-Add-On
+
 # Compatibility:
 
 Oldtimer Pack should be compatible with any mods and addons for BEX, provided that they don't change the internal design of battlemechs, i.e. don't add engines, actuators, etc. into mechlab. If you have installed any mod that changes the FullXotltables, then you'll have to manually transfer the data from the tables in this archive to those used in your mod assembly. For this case, there is a special folder "XotlTables - data for manual entry": it contains Xotl tables containing only new 'mechs. You'll have to transfer this data to the original Xotl manually, but the mod will work.
